@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0ef2S0xwIIKRnrMbMpUdFR1qzPWZTleCL6UU6zQVE9hr2H6PbGn9/gZaL0GTmzhWjDC7XAuZ7KfiIOA5mE0vUA==",
+  "dgSpecHash": "mHY7wBNZih9MoX0DPmAGdnLPEZFlsw2UVxDqkA9EwsWmWTLBhNert85nLjmuaAfaAQsWYqNF+VC5ufm0qeEWpg==",
   "success": true,
   "projectFilePath": "/home/thiagobcf/projetos/apitest/APICatalogo/APICatalogo.csproj",
   "expectedPackageFiles": [
+    "/home/thiagobcf/.nuget/packages/automapper/8.1.1/automapper.8.1.1.nupkg.sha512",
+    "/home/thiagobcf/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/6.1.1/automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
     "/home/thiagobcf/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/thiagobcf/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/home/thiagobcf/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
@@ -183,8 +185,6 @@
     "/home/thiagobcf/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
     "/home/thiagobcf/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/home/thiagobcf/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/home/thiagobcf/.nuget/packages/microsoft.netcore.app.ref/6.0.24/microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
-    "/home/thiagobcf/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
     "/home/thiagobcf/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.24/microsoft.netcore.app.host.linux-x64.6.0.24.nupkg.sha512"
   ],
   "logs": []
