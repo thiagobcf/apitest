@@ -1065,3 +1065,4 @@ C:/_Cursos_Macoratti/Curso_Web_API_Essencial/8_Fundamentos/6_ModelBinding/APICat
 /home/thiagobcf/projetos/apitest/APICatalogo/obj/Debug/net6.0/ref/APICatalogo.dll
 /home/thiagobcf/projetos/apitest/APICatalogo/bin/Debug/net6.0/AutoMapper.dll
 /home/thiagobcf/projetos/apitest/APICatalogo/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/thiagobcf/projetos/apitest/APICatalogo/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
